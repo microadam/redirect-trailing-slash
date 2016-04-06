@@ -1,7 +1,7 @@
 {
   "name": "redirect-trailing-slash",
   "description": "Express middleware to redirect URLs with a trailing slash to the same URL without the slash",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "dependencies": {},
   "scripts": {
     "lint": "./node_modules/.bin/jshint .",
